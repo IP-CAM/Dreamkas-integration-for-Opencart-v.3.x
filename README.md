@@ -1,3 +1,80 @@
+# Dreamkas integration module for OpenCart 3. \ *
+
+## Content Repository
+
+- `. / SRC /` - Directory with source code modified by me
+- `. / dreamkas-opencart-3.occmod.zip` - Modified module, ready for installation
+- `./dreamkas-f opencart.ocmod.zip` - The initial module for OpenCart 2.3, on which this modification is based
+
+## Description
+
+Modification was tested on ** OpenCart 3.0.2.0 **.
+
+The module is set, deleted, the settings are saved, read.
+
+Fiscalization statuses are not immediately displayed on the main page of orders until you come to the order itself.
+
+All major logic of the module is registered here: `upload / catalog / controller / extension / module / dreamkas.php`
+
+## Short information about changes
+
+Based on the module _ [Dreamkas-F OpenCart.ocmod.zip] (https://help.dreamkas.ru/hc/ru/article_attachments/115010763145/dreamkas-f_opencart.ocmod.zip) _ from the alt-team.ru team.
+
+This archive is provided by Dreamkas employees. It is included in the repository for history.
+
+## Important note regarding VAT
+
+In this outdated module, there is still 18/180 VAT.
+
+** It is important to know that from January 1, 2019 these rates were replaced with VAT 20/120! **
+
+## Useful links
+
+1. [History of the emergence of this modification] (http://blog.anthonyaxenov.ru/2018/05/09/module-integration-DReamkast-d.-OpenCart-3-0-2-0)
+2. [Open documentation for Dreamkas API] (http://kabinet.docs.apiary.io)
+3. [How to connect an online store to the checkout through the office?] (Https://help.dreamkas.ru/hc/ru/articles/115005007709)
+4. [Connect the cashier to OpenCart] (https://help.dreamkas.ru/hc/ru/articles/115005504689-%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1% 8E% D1% 87% D0% B8% D1% 82% D1% 8C-% D0% BA% D0% B0% D1% 81% D1% 81% D1% 83-% D0% BA-OpenCart)
+5. Group chat for developers in Telegram: [@apidreamkas] (https://t.me/apidreamkas)
+
+## Support
+
+** Please do not ask me help! **
+
+I do not give any guarantees of its performance and I do not provide support.
+
+Any manipulation with the module - for your fear and risk.
+
+I do not have the opportunity to fully check how efficating this module works: for this you need real orders and purchases.
+The project, in which I worked on this module, I no longer support.
+
+I have no interest and need it. Many things about OpenCart, Dreamkas products and this module are already forgotten. Therefore, and since the project is initially not mine, personally, I will not definitely develop it.
+
+Take and use. Does not work - Shtosh. If you have any refinement - Pull-Requests Are Welcome. But it is better to make the fork of this repository and develop the project on your own.
+
+## License
+
+[<img src = "http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png" Alt = "WTFPL" />] (License)
+
+Argument:
+
+1. Dreamkas distributes its modules without any license.
+2. [The module code was written by the Alt-Team team, not Dreamkas (https://help.dreamkas.ru/hc/ru/articles/115005504689/comments/360000156078). In this case, the exclusive copyrights of Dreamkas on this code should be specified only within the framework of legal relations with the Alt-Team team.
+3. This module is in public domain in the Dreamkas Support section. Neither [license agreement] (https://dreamkas.ru/content/kluch-oferta.pdf) nor [contract-offer] (https://dreamkas.ru/content/dogovor-oferta-clients.pdf), public Presented on Dreamkas:
+   - do not contain conditions for use, changes and distribution by users of this module;
+   - Not applicable for this case (see paragraph 2)
+4. [Alt-Team update policy] (https://www.alt-team.ru/upgrade-policy.html) does not apply to the Dreamkas and OpenCart integration module, because This module is not for sale on their website;
+5. In the source code of the module, it is not directly indicated by copywrites in accordance with Article 1271 of the Civil Code of the Russian Federation.
+
+Based on this, I draw conclusions:
+
+1. Dreamkas and the Alt-Team team in no way declare their rights to the module code, on the conditions for its use, distribution and change. Therefore, I have the right to do it yourself.
+2. ** [License WTFPL V2] (License) ** How no other is suitable for this case.
+3. The company Alt-Tim must be mentioned in the text of the license among other authors of the source code, because In the `dreamkas-f opencart.ocmod.zip / install.xml file, it is celebrated.
+
+I am ready to discuss and change these conditions if you have something to say in essence.
+
+----------
+
 # Модуль интеграции Dreamkas для OpenCart 3.\*
 
 ## Содержимое репозитория
