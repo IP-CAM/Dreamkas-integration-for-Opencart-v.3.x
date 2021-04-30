@@ -1,4 +1,4 @@
-# Dreamkas integration module for OpenCart 3. \ *
+# Dreamkas integration module for OpenCart 3.x
 
 ## Content Repository
 
@@ -75,7 +75,7 @@ I am ready to discuss and change these conditions if you have something to say i
 
 ----------
 
-# Модуль интеграции Dreamkas для OpenCart 3.\*
+# Модуль интеграции Dreamkas для OpenCart 3.x
 
 ## Содержимое репозитория
 
